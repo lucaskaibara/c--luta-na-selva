@@ -1,0 +1,36 @@
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.exe
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.pdb
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.exe
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.pdb
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.exe.config
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.exe
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\bin\Debug\Model.pdb
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.exe
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\Model\obj\Debug\Model.pdb
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\bin\Debug\Model.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\bin\Debug\Model.exe
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\bin\Debug\Model.pdb
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\obj\Debug\Model.exe
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\Model\obj\Debug\Model.pdb

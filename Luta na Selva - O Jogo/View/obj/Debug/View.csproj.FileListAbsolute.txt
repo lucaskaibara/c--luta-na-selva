@@ -1,0 +1,212 @@
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\Usuario\Downloads\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\Usuario\Desktop\Luta na Selva\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva -----\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ------\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\lucas.kaibara\Desktop\Arquivos\Faculdade\Jogo C#\Luta na Selva ----------\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.TelaInicial.resources
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.ComoJogar.resources
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.Regras.resources
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.SobreNos.resources
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.NomeJogadores.resources
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\bin\Debug\MySql.Data.dll
+C:\Users\Usuário\Desktop\Luta na Selva (21-09) 2\Luta na Selva - O Jogo\View\obj\Debug\View.Tempos.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\MySql.Data.dll
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\bin\Debug\MySql.Data.xml
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.ComoJogar.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.NomeJogadores.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.Regras.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.SobreNos.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.TelaInicial.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.Tempos.resources
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\lucas.kaibara\Desktop\Luta na Selva [VERSAO 1]\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\View.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\View.exe
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\View.pdb
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\Model.exe
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\MySql.Data.dll
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\Controller.pdb
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\Controller.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\Model.pdb
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\Model.exe.config
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\bin\Debug\MySql.Data.xml
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.ComoJogar.resources
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.Jogo.resources
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.NomeJogadores.resources
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.Regras.resources
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.SobreNos.resources
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.TelaInicial.resources
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.Tempos.resources
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.exe
+C:\Users\Usuário\Desktop\Luta na Selva [VERSAO FINAL] 99.9\Luta na Selva - O Jogo\View\obj\Debug\View.pdb
